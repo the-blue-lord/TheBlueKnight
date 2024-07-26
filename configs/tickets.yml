@@ -1,0 +1,60 @@
+category_id: "1187112364898799746"
+
+authorized_roles: 
+  - "1166995041642876938"
+
+priority_role: "1216187687191580692"
+priority_category_id: "1217200478694277222"
+priority_emoji: "🚨"
+
+closed_category_id: "1217208249657589850"
+closed_emoji: "🔒"
+
+categories:
+- name: "Supporto Generale"
+  description: "Informazioni, Segnalazioni, Bug e Contestazioni"
+  id: "supporto_generale"
+  emoji: "📩"
+  questions:
+    - title: "Domanda 1"
+      question: "Quale domanda 1 ci sarà qui?"
+    - title: "Domanda 2"
+      question: "Quale domanda 2 ci sarà qui?"
+    - title: "Domanda 3"
+      question: "Quale domanda 3 ci sarà qui?"
+
+- name: "Account"
+  description: "Problematiche relative al tuo account"
+  id: "account"
+  emoji: "🔩"
+  questions:
+    - title: "Domanda 1"
+      question: "Quale domanda 1 ci sarà qui?"
+    - title: "Domanda 2"
+      question: "Quale domanda 2 ci sarà qui?"
+    - title: "Domanda 3"
+      question: "Quale domanda 3 ci sarà qui?"
+
+- name: "Candidature"
+  description: "Proponiti per entrare nel nostro Staff"
+  id: "candidature"
+  emoji: "📚"
+  questions:
+    - title: "Domanda 1"
+      question: "Quale domanda 1 ci sarà qui?"
+    - title: "Domanda 2"
+      question: "Quale domanda 2 ci sarà qui?"
+    - title: "Domanda 3"
+      question: "Quale domanda 3 ci sarà qui?"
+
+- name: "Store"
+  description: "Problematiche relative allo store"
+  id: "store"
+  emoji: "💰"
+  questions:
+    - title: "Domanda 1"
+      question: "Quale domanda 1 ci sarà qui?"
+    - title: "Domanda 2"
+      question: "Quale domanda 2 ci sarà qui?"
+    - title: "Domanda 3"
+      question: "Quale domanda 3 ci sarà qui?"
