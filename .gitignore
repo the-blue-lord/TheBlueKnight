@@ -3,5 +3,5 @@
 .env
 package.json
 package-lock.json
-/databasess
+/databases
 /databasesBackups
