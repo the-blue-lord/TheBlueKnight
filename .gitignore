@@ -3,5 +3,3 @@
 .env
 package.json
 package-lock.json
-/databases
-/databasesBackups
