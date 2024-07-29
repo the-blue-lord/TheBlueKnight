@@ -12,7 +12,6 @@ module.exports = class MessageCreate {
         if(message.mentions.users.size == 0) return;
 
         message.delete();
-        console.log("[GHOST PING] Message deleted for ping");
 
         return;
     }
